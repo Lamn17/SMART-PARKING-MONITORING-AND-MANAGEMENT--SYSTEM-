@@ -17,8 +17,8 @@
 
 ### 1️⃣ Clone the Repository  
 ```sh
-https://github.com/Lamn17/SMART-PARKING-MONITORING-AND-MANAGEMENT--SYSTEM-
-```
+git clone (https://github.com/Lamn17/SMART-PARKING-MONITORING-AND-MANAGEMENT--SYSTEM-).git
+cd SMART-PARKING-MONITORING-AND-MANAGEMENT--SYSTEM-
 
 ### 2️⃣ Install Dependencies  
 ```sh
@@ -31,14 +31,14 @@ pip install -r requirements.txt
 
 ### 4️⃣ Run the Detection Script  
 ```sh
-git clone https://github.com/prajesdas/Smart-Parking-Space-Detector-using-YOLO-and-OpenCV.git
-cd Smart-Parking-Space-Detector-using-YOLO-and-OpenCV
+git clone (https://github.com/Lamn17/SMART-PARKING-MONITORING-AND-MANAGEMENT--SYSTEM-).git
+cd SMART-PARKING-MONITORING-AND-MANAGEMENT--SYSTEM-
 ```
 
 ## 📂 Project Structure  
 ```
 📂 Smart-Parking-Space-Detector  
- ┣ 📂 models/              # YOLO model weights  
+ ┣ 📂 models/              # YOLOv5 model
  ┣ 📂 data/                # Parking lot images/videos  
  ┣ 📂 utils/               # Helper functions  
  ┣ 📜 main.py              # Main script for detection  
