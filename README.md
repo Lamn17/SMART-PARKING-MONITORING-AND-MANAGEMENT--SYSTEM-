@@ -1,15 +1,15 @@
 # 🚗 SMART PARKING MONITORING AND MANAGEMENT SYSTEM 🅿️  
 
-## 🔍 TỔNG QUAN
+## 🔍 OVERVIEW
 Đề tài này sử dụng YOLO (You One Look Once) và hệ thống IoT để quản lý và giám sát bãi đỗ xe theo thời gian thực
 ## 🛠️ Features  
-✅ **Real-time Parking Detection** using YOLOv5
+✅ **Real-time Parking Detection** using YOLOv5s
 ✅ **OpenCV for Image Processing**  
 ✅ **Bounding Boxes & Object Detection** for parked cars  
 ✅ **Customizable Parking Zone Mapping**  
 ✅ **Supports Live Camera Feeds & Video Input**  
 
-## 📸 Demo 
+## 📸 DEMO
 
 ![visualization (1)](https://github.com/user-attachments/assets/39521b00-a105-4a55-8d48-ed7f2bfa4b93)
 
@@ -25,17 +25,14 @@ https://github.com/Lamn17/SMART-PARKING-MONITORING-AND-MANAGEMENT--SYSTEM-
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Download YOLO Weights  
-- Download YOLOv4 weights from [official YOLO website](https://pjreddie.com/darknet/yolo/) or use a pre-trained YOLOv8 model.  
-- Place the weights in the `models/` directory.  
+### 3️⃣ Download YOLO  
+- Download YOLOv5 small from [official YOLO website](https://ultralytics.com/license)
+- Place the YOLOv5s in the `models/` directory.  
 
 ### 4️⃣ Run the Detection Script  
 ```sh
-python detect_parking.py --source video.mp4
-```
-or for live webcam feed:  
-```sh
-python detect_parking.py --source 0
+git clone https://github.com/prajesdas/Smart-Parking-Space-Detector-using-YOLO-and-OpenCV.git
+cd Smart-Parking-Space-Detector-using-YOLO-and-OpenCV
 ```
 
 ## 📂 Project Structure  
