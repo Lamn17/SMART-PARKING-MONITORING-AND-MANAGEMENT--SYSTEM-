@@ -19,6 +19,7 @@
 ```sh
 git clone (https://github.com/Lamn17/SMART-PARKING-MONITORING-AND-MANAGEMENT--SYSTEM-).git
 cd SMART-PARKING-MONITORING-AND-MANAGEMENT--SYSTEM-
+```
 
 ### 2️⃣ Install Dependencies  
 ```sh
