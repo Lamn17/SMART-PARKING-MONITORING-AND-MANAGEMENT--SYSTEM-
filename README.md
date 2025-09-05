@@ -17,7 +17,7 @@
 
 ### 1️⃣ Clone the Repository  
 ```sh
-git clone (https://github.com/Lamn17/SMART-PARKING-MONITORING-AND-MANAGEMENT--SYSTEM-).git
+git clone (https://github.com/Lamn17/SMART-PARKING-MONITORING-AND-MANAGEMENT--SYSTEM-)
 cd SMART-PARKING-MONITORING-AND-MANAGEMENT--SYSTEM-
 ```
 
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ### 4️⃣ Run the Detection Script  
 ```sh
-git clone (https://github.com/Lamn17/SMART-PARKING-MONITORING-AND-MANAGEMENT--SYSTEM-).git
+git clone (https://github.com/Lamn17/SMART-PARKING-MONITORING-AND-MANAGEMENT--SYSTEM-)
 cd SMART-PARKING-MONITORING-AND-MANAGEMENT--SYSTEM-
 ```
 
